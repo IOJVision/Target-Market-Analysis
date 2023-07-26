@@ -27,7 +27,6 @@ The notebook includes the following steps:
 - Model Evaluation
 - Bonus (any creative idea for improving machine learning models)
 
-The project is to be performed in groups of 2-3 individuals. The final output, including the Jupyter Notebook and PowerPoint presentation, should be uploaded as a single zip file on GDrive.
 
 ## Results
 
